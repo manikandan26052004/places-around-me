@@ -372,6 +372,8 @@ this bank. <br></LI>
 Output:
 PAGE
 ![page web](https://github.com/manikandan26052004/places-around-me/assets/121999845/cc3469de-d9ea-4f5b-804d-48d7d08ca95d)
+
+
 INDEX PAGE
 ![INDEX PAGE web](https://github.com/manikandan26052004/places-around-me/assets/121999845/e5e52c1f-c036-4d72-bcb4-cc12c7c27889)
 
@@ -379,11 +381,14 @@ INDEX PAGE
 HOME PAGE
 ![HOME PAGE web](https://github.com/manikandan26052004/places-around-me/assets/121999845/5dbd1c50-30a6-4593-ab0d-deadc430b3a6)
 
+
 RESTAURANT PAGE
 ![RESTAURANT PAGE web](https://github.com/manikandan26052004/places-around-me/assets/121999845/954a347a-6114-45bb-8493-166cc99dba20)
 
+
 BANK
 ![BANK web](https://github.com/manikandan26052004/places-around-me/assets/121999845/fad9efa4-569d-456c-9687-be655de18c21)
+
 
 MARRIAGE HALL
 ![MARRIAGE HALL web](https://github.com/manikandan26052004/places-around-me/assets/121999845/48b14616-8da0-42eb-bc0e-eaa4df26fa39)
